@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
 
-<!--
-**koraytuncer/koraytuncer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Koray TUNCER. Jr.FrontEnd Developer 
+[![GitHub Koray Tuncer](https://img.shields.io/github/followers/koraytuncer?label=follow&style=social)](https://github.com/koraytuncer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=koraytuncer)
+
+![Koray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koraytuncer&show_icons=true)
+
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin!
+
+[![Linkedin Badge](https://img.shields.io/badge/koraytuncer-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/koray-tuncer-0368317b/)
+[![Instagram Badge](https://img.shields.io/badge/koraytuncer-follow%20on%20behance-blue?style=for-the-badge&logo=behance)](https://behance.com/ismikoraymis/)
+
