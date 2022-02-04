@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Koray TUNCER. Jr.FrontEnd Developer 
+I'm Koray TUNCER. FrontEnd Developer 
 [![GitHub Koray Tuncer](https://img.shields.io/github/followers/koraytuncer?label=follow&style=social)](https://github.com/koraytuncer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=koraytuncer)
